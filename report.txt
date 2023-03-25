@@ -1,0 +1,31 @@
+Info: Processing symbol 'C1:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder'.
+Info: Processing symbol 'F1:Fuse:Fuse_Bourns_MF-RG400'.
+Info: Processing symbol 'J1:TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U2:OptoDevice:Finder_34.81'.
+Info: Processing symbol 'U1:RF_Module:ESP-12E'.
+Info: Processing symbol 'RV1:Varistor:RV_Disc_D9mm_W4.4mm_P5mm'.
+Info: Processing symbol 'J2:TerminalBlock:TerminalBlock_Altech_AK300-2_P5.00mm'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'PS1:Converter_ACDC:Converter_ACDC_HiLink_HLK-PMxx'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Reconnected PS1 pin 2 from Net-(J1-Pad2) to Net-(J2-Pad1).
+Reconnected J2 pin 1 from Net-(J1-Pad2) to Net-(J2-Pad1).
+Reconnected J1 pin 2 from Net-(J1-Pad2) to Net-(U2-Pad11).
+Reconnected RV1 pin 1 from Net-(J1-Pad2) to Net-(J2-Pad1).
+Add net Net-(U2-Pad11).
+Reconnected J1 pin 1 from Net-(J1-Pad1) to Net-(J2-Pad1).
+Reconnected U2 pin 11 from Net-(J1-Pad1) to Net-(U2-Pad11).
+Add net Net-(J2-Pad1).
+Removed unused net Net-(J1-Pad1).
+Removed unused net Net-(J1-Pad2).
+
+
+Info: Total warnings: 0, errors: 0.
