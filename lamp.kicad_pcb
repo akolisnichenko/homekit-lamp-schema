@@ -164,7 +164,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tstamp 0c48fea4-4ccb-47f3-9010-c29c54caef8b)
-    (at 119.38 132.08)
+    (at 121.92 132.08)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -894,7 +894,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3" (layer "F.Cu")
     (tstamp f7c351e2-6149-4891-a374-a41eba4f487f)
-    (at 185.42 104.14)
+    (at 184.15 102.87)
     (descr "Mounting Hole 3.2mm, no annular, M3")
     (tags "mounting hole 3.2mm no annular m3")
     (attr exclude_from_pos_files exclude_from_bom)
@@ -1666,7 +1666,7 @@
     (property "ki_keywords" "screw terminal")
     (path "/c6689986-a51b-4978-b9d9-6cd5c9f0fd34")
     (attr through_hole)
-    (fp_text reference "J2" (at -1.92 6.99 90) (layer "B.SilkS")
+    (fp_text reference "J2" (at -1.92 6.99 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp ac1a0f13-6da2-4cbf-b8ac-e15e191ede73)
     )
@@ -2364,7 +2364,7 @@
     (property "ki_keywords" "screw terminal")
     (path "/0b6c9a09-14d3-467a-bd55-a343faadc6cd")
     (attr through_hole)
-    (fp_text reference "J1" (at -1.92 6.99 90) (layer "B.SilkS")
+    (fp_text reference "J1" (at -1.92 6.99 90) (layer "B.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp 6517c412-111a-4095-8dc1-d2fc59b664b8)
     )
@@ -2579,7 +2579,7 @@
     )
   )
 
-  (gr_rect (start 113.03 98.171) (end 188.976 136.779)
+  (gr_rect (start 114.3 98.171) (end 188.976 136.779)
     (stroke (width 0.15) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp aa771abb-6969-4114-ad38-40cc725da28f))
   (gr_text "HAP lamp v0.0.1A" (at 137.16 133.35) (layer "F.Cu") (tstamp 9f80f31e-a475-4ddb-a99a-e02a5c7df783)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
